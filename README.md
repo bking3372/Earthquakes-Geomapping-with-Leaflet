@@ -9,6 +9,7 @@ Create a map using Leaflet that plots all of the earthquakes from the USGS data 
 * Include popups that provide additional information about the earthquake when a marker is clicked.
 * Create a legend that will provide context for the map data.
 
+
 Step2
 Plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity. 
 * Add a number of base maps to choose from as well as separate out the two different data sets into overlays that can be turned on and off independently.
