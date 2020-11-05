@@ -8,5 +8,5 @@ Step 1:  Create a map using Leaflet that plots all of the earthquakes from the U
 * A legend is included to provide context for the map data.
 
 
-Step 2:  Plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity. 
+Step 2:  Plot a second dataset on the map to illustrate the relationship between tectonic plates and seismic activity. 
 * Several base maps options are provided as well as separate overlays for the earthquakes and faultlines that can be turned on and off independently.
