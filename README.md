@@ -2,7 +2,7 @@
 
 Objective:  Build a set of tools to visualize earthquake data for the United States Geological Society
 
-Step 1:  Create a map using Leaflet that plots all of the earthquakes from the USGS data set based on the longitude and latitude.
+Step 1:  Create a map using Leaflet that plots all of the earthquakes from the USGS data based on the longitude and latitude.
 * Data markers are incorporated to reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes will appear larger and darker in color.
 * Popups are included to provide additional information about the earthquake.
 * A legend is included to provide context for the map data.
