@@ -7,6 +7,12 @@
 * Popups are included to provide additional information for each earthquake.
 * A legend is included to provide context for the map data.
 
+  ![EQ1](https://github.com/bking3372/Earthquakes-Geomapping-with-Leaflet/blob/master/images/EQSS1.PNG)
+  
+  ![EQ2](https://github.com/bking3372/Earthquakes-Geomapping-with-Leaflet/blob/master/images/EQSS2.PNG)
+
 
 **Step 2:**  Plot a second dataset on the map to illustrate the relationship between tectonic plates and seismic activity. 
 * Several base map options are provided as well as separate overlays for the earthquakes and faultlines that can be turned on and off independently.
+
+  ![EQFL1](https://github.com/bking3372/Earthquakes-Geomapping-with-Leaflet/blob/master/images/EQ_FL1.PNG)
